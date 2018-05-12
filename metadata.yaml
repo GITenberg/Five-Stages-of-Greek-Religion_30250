@@ -1,0 +1,34 @@
+_repo: Five-Stages-of-Greek-Religion_30250
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Murray, Gilbert
+    aliases:
+    - Murray, George Gilbert Aimé
+    - Murray, George Gilbert Aime
+    birthdate: 1866
+    deathdate: 1957
+    gutenberg_agent_id: '1681'
+    url: http://www.gutenberg.org/2009/agents/1681
+    wikipedia: http://en.wikipedia.org/wiki/Gilbert_Murray
+description: ''
+gutenberg_issued: '2009-10-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30250'
+  lccn: '52009869'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BL'
+- !lcsh 'Greece -- Religion'
+tableOfContents: 'Saturnia Regna -- The Olympian conquest -- The great schools --
+  The failure of nerve -- The last protest -- Appendix: Translation of the treatise
+  of Sallustius.'
+title: Five Stages of Greek Religion
+url: http://www.gutenberg.org/ebooks/30250
